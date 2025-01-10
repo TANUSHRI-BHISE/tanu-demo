@@ -1,2 +1,2 @@
 # tanu-demo
-learning about gut hub.
+learning about git hub.
